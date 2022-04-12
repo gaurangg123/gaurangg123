@@ -1,0 +1,4 @@
+- 👋 Hello there !!
+- 👀 I’m interested in Coding and Computer Stuff.
+- 🌱 I’m currently learning C and DSA.
+- 📫 How to reach me - @gaurangg123
