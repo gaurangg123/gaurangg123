@@ -2,3 +2,4 @@
 - 👀 I’m interested in Coding and Computer Stuff.
 - 🌱 I’m currently learning C, C++, Python and DSA.
 - 📫 How to reach me - @gaurangg123
+- 📢 Linkedin - https://www.linkedin.com/in/gaurang-ashava-0740a7223/
