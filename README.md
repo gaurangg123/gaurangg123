@@ -1,4 +1,4 @@
-- 👋 Hello there !!
+- 👋 Hello there, Gaurang Ashava here!!
 - 👀 I’m interested in Coding and Computer Stuff.
 - 🌱 I’m currently learning C, C++, Python and DSA.
 - 📫 How to reach me - @gaurangg123
