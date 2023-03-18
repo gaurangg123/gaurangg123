@@ -1,10 +1,9 @@
 # 💫 About Me:
-👋 Hello there, Gaurang Ashava here!!<br>👀 I’m interested in Coding and Computer Stuff.<br>🌱 I’m currently learning C++, Python and DSA.<br>📫 How to reach me - @gaurangg123<br>📢 Linkedin - https://www.linkedin.com/in/gaurang-ashava-0740a7223/
+👋 Hello there, Gaurang Ashava here!!<br>👀 I’m interested in Coding and Computer Stuff.<br>🌱 I’m currently learning C++, Python and DSA.<br>📫 How to reach me - @gaurangg123
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurangg__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Gaurang Ashava) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AshavaGaurang) 
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 # 📊 GitHub Stats:
