@@ -33,7 +33,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaurangg123&theme=tokyonight&hide_border=false)
 <br/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangg123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?>nr>username=gaurangg123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✨ Profile Count
 
