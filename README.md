@@ -3,7 +3,6 @@
 🔭 I’m currently working on Data Analytics and DBMS.<br>
 👯 I’m looking to collaborate on multiple projects.<br>
 🤝 I’m looking for help with Full Stack Development.<br>
-🌱 I’m currently learning Big Data Analytics<br>
 
 
 ## 🌐 Socials:
