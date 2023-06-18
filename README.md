@@ -28,8 +28,5 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gaurangg123&theme=tokyonight&hide_border=false)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?>nr>username=gaurangg123&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ### ✨ Profile Count
-
 [![](https://visitcount.itsvg.in/api?id=gaurangg123&icon=0&color=1)](https://visitcount.itsvg.in)
