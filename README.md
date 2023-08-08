@@ -3,7 +3,8 @@
 
 # 💫 About Me:
 🔭 I’m currently working on Front End Development (Angular).
-<br>👯 I’m looking to collaborate on Full Stack Projects. <br>🤝 I’m looking for help with Competitive Programming.<br>🌱 I’m currently learning Data Analytics.<br>💬 Ask me about tech and stuff<br>
+<br>👯 I’m looking to collaborate on Full Stack Projects. 
+<br>🤝 I’m looking for help with Competitive Programming. <br>🌱 I’m currently learning Data Analytics.<br>💬 Ask me about tech and stuff<br>
 
 
 ## 🌐 Socials:
