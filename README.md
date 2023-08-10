@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Big Data Analyst from India</h3>
 
 # 💫 About Me:
-🔭 I’m currently learning Data Analytics.
+🔭 I’m currently doing Google Data Analytics Course. 
 <br>👯 I’m looking to collaborate on Full Stack Projects. 
 <br>🤝 I’m looking for help with Competitive Programming. 
 <br>🌱 I’m currently learning Data Analytics.
