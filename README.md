@@ -4,7 +4,7 @@
 # 💫 About Me:
 🔭 I’m currently doing Google Data Analytics Course. 
 <br>👯 I’m looking to work on Full Stack Projects. 
-<br>🤝 I’m looking for help with Competitive Programming. 
+<br>🤝 I’m looking for help with Competitive Programming & DSA.
 <br>🌱 I’m currently learning Data Analytics.
 <br>💬 Ask me about tech and stuff<br>
 
