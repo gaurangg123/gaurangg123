@@ -1,39 +1,60 @@
+<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
 <h1 align="center">Hi 👋, I'm Gaurang Ashava</h1>
-<h3 align="center">A passionate Big Data Analyst from India</h3>
+<h3 align="center">An aspiring Data Analyst and a Software Developer.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurangg123&label=Profile%20views&color=0e75b6&style=flat" alt="gaurangg123" /> </p>
 
-# 💫 About Me:
-🔭 I’m currently doing Google Data Analytics Course. 
-<br>👯 I’m looking to work on Full Stack Projects. 
-<br>🤝 I’m looking for help with Competitive Programming & DSA.
-<br>💬 Ask me about tech and stuff<br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gaurangg123&theme=darkhub" alt="gaurangg123" /></a> </p>
 
+- 🔭 I’m currently working on **MERN/MEAN**
+- 👯 I’m looking to collaborate on **Machine Learning Models**
+- 🤝 I’m looking for help with **Devops**
+- 🌱 I’m currently learning **DSA & Competitive Programming**
+- 💬 Ask me about **Latest GenZ Tech, Formula1, Data Visualizations and Analytics**
+- 📫 How to reach me **gaurangashava@gmail.com**
+- 👨‍💻 All of my projects are available at **github.com/gaurangg123**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gaurang9128) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gaurangg123) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaurang-ashava-0740a7223/) 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AshavaGaurang) 
+<div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gaurang-ashava/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/gaurangg123" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href = "mailto:gaurangashava@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div><h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/gaurang-ashava/" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaurang-ashava/" height="30" width="40" /></a><a href="https://www.hackerrank.com/gn2732" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="gn2732" height="30" width="40" /></a><a href="https://www.leetcode.com/gaurangg__" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="gaurangg__" height="30" width="40" /></a><a href="https://discord.gg/gaurang9128" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/discord.svg" alt="gaurang9128" height="30" width="40" /></a></p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) 
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) 
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/cplusplus-original.svg" alt="CPP" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/angular.svg" alt="Angular" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/html5-original-wordmark.svg" alt="HTML" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/css3-original-wordmark.svg" alt="Css" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/figma-icon.svg" alt="Figma" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=gaurangg123&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=gaurangg123&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangg123&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<h3 align="left">Stars</h3>
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurangg123&layout=compact&theme=dark" alt=gaurangg123 />
 
----
-[![](https://visitcount.itsvg.in/api?id=gaurangg123&icon=2&color=12)](https://visitcount.itsvg.in)
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=gaurangg123&show_icons=true&locale=en&theme=dark" alt="gaurangg123" /></p>
+
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurangg123&theme=dark" alt="gaurangg123" /></p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/gaurangg123">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaurangg123&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaurangg123&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaurangg123&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=gaurangg123&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaurangg123&theme=2077" height="180em" />
+</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=gaurangg123&theme=react-dark"/>
+
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
