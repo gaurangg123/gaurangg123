@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **DSA & Competitive Programming**
 - 💬 Ask me about **Latest GenZ Tech, Formula1, Data Visualizations and Analytics**
 - 📫 How to reach me **gaurangashava@gmail.com**
-- 📄 Know about my experiences <a href ="[https://drive.google.com/file/d/1dcgP83cQTWvpLRXrAuilRZYECKRl_Frq/view?usp=drive_link]" **resume** >
+- 📄 Know about my experiences <a href ="[https://drive.google.com/file/d/1dcgP83cQTWvpLRXrAuilRZYECKRl_Frq/view?usp=drive_link]"> **resume**
 - 👨‍💻 All of my projects are available at **github.com/gaurangg123**
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gaurang-ashava/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
