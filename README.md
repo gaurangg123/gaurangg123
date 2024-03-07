@@ -10,7 +10,7 @@
 - 🤝 I’m looking for help with **Devops**
 - 🌱 I’m currently learning **DSA & Competitive Programming**
 - 💬 Ask me about **Latest GenZ Tech, Formula1, Data Visualizations and Analytics**
-- 📫 How to reach me **gaurangashava@gmail.com**
+- 📫 How to reach me [**MailID**](mailto:gaurangashava@gmail.com)  
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1PJC8t0pgbQ1fGcqStN44XIIc9vdm4CEO/view?usp=sharing) 
 - 👨‍💻 All of my projects are available at **github.com/gaurangg123**
 
