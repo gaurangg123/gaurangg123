@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Gaurang Ashava</h1>
 <h3 align="center">An aspiring Data Analyst and a Software Developer.</h3>
 
-- 🔭 I’m currently working on **MERN/MEAN**
+- 🔭 I’m currently working on **Data Analytics**
 - 👯 I’m looking to collaborate on **Machine Learning Models**
-- 🤝 I’m looking for help with **Devops**
+- 🤝 I’m looking for help with **Devops and Full Stack**
 - 🌱 I’m currently learning **DSA & Competitive Programming**
-- 💬 Ask me about **Latest GenZ Tech, Formula1, Data Visualizations and Analytics**
+- 💬 Ask me about **Latest GenZ Tech, F1, Data Visualizations and Analytics**
 - 📫 How to reach me [**Mail-ID**](mailto:gaurangashava@gmail.com)  
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1PJC8t0pgbQ1fGcqStN44XIIc9vdm4CEO/view?usp=sharing) 
 - 👨‍💻 All of my projects are available at [**GitHub**](github.com/gaurangg123)
