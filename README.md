@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurang Ashava</h1>
 <h3 align="center">An aspiring Data Analyst and a Web Developer.</h3>
 
-<b>
+
 - 🔭 I’m currently working on **Data Analytics**
 - 👯 I’m looking to collaborate on **Machine Learning Models**
 - 🤝 I’m looking for help with **Devops and Full Stack**
