@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gaurang Ashava</h1>
 <h3 align="center">An aspiring Data Analyst and a Web Developer.</h3>
 
+<b>
 - 🔭 I’m currently working on **Data Analytics**
 - 👯 I’m looking to collaborate on **Machine Learning Models**
 - 🤝 I’m looking for help with **Devops and Full Stack**
@@ -10,6 +11,7 @@
 - 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1PJC8t0pgbQ1fGcqStN44XIIc9vdm4CEO/view?usp=sharing) 
 - 👨‍💻 All of my projects are available at [**GitHub**](github.com/gaurangg123)
 - ⚙ Have a look at my [**Portfolio Website**](https://gaurangg123.github.io/portfoliowebiste/)
+</b>
 
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/gaurang-ashava/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://github.com/gaurangg123" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
