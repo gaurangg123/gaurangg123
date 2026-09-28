@@ -30,7 +30,7 @@
 - 🔭 Working as a **Data Scientist at Tata Technologies**
 - 🤖 Passionate about **Data Science, AI, Machine Learning, and intelligent automation**
 - 👯 Open to collaborating on **AI/ML, data-driven, and development projects**
-- 📄 View my [**Resume**](https://drive.google.com/file/d/1KjCrFryeam1dJmiMYdbbJ2wK50LSU44L/view?usp=drive_link)
+- 📄 View my [**Resume**](https://drive.google.com/file/d/1LbktI3_wzj6RZ04ig9SzPOV6p41pssqJ/view?usp=sharing)
 - 🌐 Explore my [**Portfolio**](https://gaurangg123.github.io/portfoliowebiste/)
 - 💬 Reach me at **[gaurangashava@gmail.com](mailto:gaurangashava@gmail.com)**
 
